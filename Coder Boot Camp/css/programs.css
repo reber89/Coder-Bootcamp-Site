@@ -1,0 +1,192 @@
+/* programs */
+.ourProgramHead {
+	height: 400px;
+	color:white;
+	text-shadow: black 0.1em 0.1em 1em;
+	text-align: left;
+	background-color: black;
+	background: url('../images/bg/programs.png') no-repeat;
+	background-size: cover;
+	padding: 230px 0 0 0;
+	text-align: left;
+	text-transform: uppercase;
+	 background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.ourProgramHead h1, .roadmapHead h1, .locationHead h1, .studentsHead h1{
+	font-size: 4.8em;
+}
+
+.xsfont h1 {
+	font-size: 3.5em;
+}
+
+.ourProgram {
+	background-color: #ececec;
+	
+	padding: 10px 0;
+	line-height: 1.3em;
+}
+
+.ourProgram h3 {
+	line-height: 1.3em;
+	font-size: 1.8em;
+	color: #4C4C4c;
+}
+
+.ourProgramContent {
+	background-color: #fff;
+	padding: 50px 0;
+}
+
+.ourProgramContent h5 {
+	line-height: 1.4em;
+	font-size: 1.3em;
+	font-weight: 200;
+	color: #666666;
+}
+
+.roadmapHead {
+
+	height: 400px;
+	color:white;
+	text-align: left;
+	background-color: #195271;
+	background: url('../images/bg/bgblue.png') no-repeat;
+	background-size: cover;
+	padding: 230px 0 0 0;
+	text-align: left;
+	text-transform: uppercase;
+	background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+/* location */
+.locationHead {
+	height: 400px;
+	color:white;
+	text-shadow: black 0.1em 0.1em 1em;
+	text-align: left;
+	background-color: black;
+	background: url('../images/bg/location.png') no-repeat;
+	background-size: cover;
+	padding: 230px 0 0 0;
+	text-align: left;
+	text-transform: uppercase;
+	background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#map-container { 
+	height: 400px;
+	width: 100%;
+}
+
+/* location */
+.studentsHead {
+	height: 400px;
+	color:white;
+	text-shadow: black 0.1em 0.1em 1em;
+	text-align: left;
+	background-color: black;
+	background: url('../images/bg/students.jpg') no-repeat;
+	background-size: cover;
+	padding: 230px 0 0 0;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.whitebox {
+	width: 300px;
+	float: left;
+	background-color: white;
+	height: 500px;
+	padding: 12px;
+	margin: 15px 15px 50px 8px;
+	box-shadow: 6px 6px 3px #eee;
+}
+
+.img {
+	width: 276px; 
+	height: 300px;
+}
+
+.studentsContent {
+	background-color: #FCFCFC;
+	padding: 50px 0;
+	width: 100%
+}
+
+.studentsContent h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	font-weight: 800;
+	color: #8D8D8D;
+	float: left;
+	margin: 0px 5px 0 0;
+}
+
+.xsfont1 h1 {
+	font-size: 3em;
+}
+
+.projectsContent {
+	background-color: #fff;
+	padding: 80px 0 100px 0;
+}
+/* register */
+.form-control:focus{
+    border-color: #cccccc;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.bluebg {
+	background-color: #195271;
+}
+
+.bluebg h2 {
+	color: #fff;
+	font-size: 2em;
+	weight: 800;
+
+}
+
+.colorwhite,  .colorwhite:hover{
+	color: #fff;
+}
+
+label {
+	color: #666;
+
+}
+
+.form-group > label {
+	font-size: 1.2em;
+}
+
+.modal-footer {
+	border: none;
+}
+/* register */
+
+
+
+
